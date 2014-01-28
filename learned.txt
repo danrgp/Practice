@@ -1,1 +1,2 @@
 This contains things I learned yesterday.
+Today I learned how to track files with git
